@@ -1,60 +1,54 @@
-### Hello there 👋  
+<div align="center">
 
-I'm **Adeniran John**, a dedicated **Backend Engineer** and **AI Engineer** with a strong focus on building reliable, efficient, and scalable systems. I’m passionate about solving complex problems through data-driven solutions and intelligent automation.  
+# TIMIHACK
 
----
+### Adeniran John · Backend Engineer & AI Engineer
 
-#### 🧠 About Me  
-- 🔭 Currently working on backend and AI-driven projects  
-- 🌱 Committed to continuous learning and professional growth  
-- 👯 Experienced in cross-functional collaboration and team-based development  
-- 💬 Open to discussions on backend architecture, APIs, and machine learning  
-- 📫 Reach me at **timihack.it@gmail.com** or on [WhatsApp](https://wa.me/2348051610576)  
-- ⚡ Outside of work, I enjoy football (Arsenal fan) and great movies  
+**Building dependable systems. Exploring intelligent solutions. Solving real problems.**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-timihack-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/timihack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timihack)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-FF6A00?style=flat-square&logo=gmail&logoColor=white)](mailto:timihack.it@gmail.com)
 
-#### 💻 Tech Stack  
-
-**Backend & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend & UI:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**AI & Machine Learning:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
 ---
 
-#### 🌐 Connect With Me  
+## About me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/timihack" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/timihack_" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-</p>
+I'm **Adeniran John**, a software engineer based in Nigeria. My work centers on **backend engineering, API design, scalable application architecture, and AI-powered products**. I enjoy taking complex problems from an early idea to software that is useful, maintainable, and reliable.
+
+- **Engineering:** APIs, authentication, integrations, database design, and background processing.
+- **AI & data:** machine learning, intelligent search, automation, and data-driven applications.
+- **Delivery:** containerization, CI/CD, deployment workflows, and developer experience.
+- **Open source:** building and maintaining tools that make engineering easier.
+
+## Technologies I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, PHP, SQL |
+| **Backend** | FastAPI, Django, NestJS, REST APIs, SQLAlchemy, Prisma |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **AI / ML** | PyTorch, scikit-learn, pandas, NumPy |
+| **Databases & queues** | PostgreSQL, MySQL, Redis |
+| **Infrastructure** | Linux, Docker, Git, GitHub Actions, CI/CD |
+
+## What interests me
+
+- Designing resilient backend systems that are straightforward to operate.
+- Turning AI and machine learning into useful product features.
+- Improving developer tooling, authentication, and open-source libraries.
+- Collaborating on products with meaningful, real-world applications.
+
+## Connect
+
+I'm open to conversations about **software engineering, product collaboration, open source, and AI systems**.
+
+**Email:** [timihack.it@gmail.com](mailto:timihack.it@gmail.com) · **LinkedIn:** [linkedin.com/in/timihack](https://www.linkedin.com/in/timihack) · **X:** [@timihack_](https://x.com/timihack_)
 
 ---
 
-> “Code is not just logic — it’s the art of creating something that works beautifully.”
+<div align="center">
+  <sub>Build. Explore. Solve. · TIMIHACK</sub>
+</div>

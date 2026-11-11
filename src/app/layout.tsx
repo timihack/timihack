@@ -1,32 +1,13 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
-  title: "timhack",
-  description: "Portfolio Website for timihack",
+  title: { default: "TIMIHACK — Engineering what matters", template: "%s | TIMIHACK" },
+  description: "Adeniran John is a backend and AI engineer building robust APIs, intelligent systems, and developer tools.",
+  openGraph: { title: "TIMIHACK — Engineering what matters", description: "Backend engineering, AI systems and open-source software.", type: "website" },
+  robots: { index: true, follow: true }
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        {children}
-      </body>
-    </html>
-  );
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  return <html lang="en"><body>{children}</body></html>;
 }
